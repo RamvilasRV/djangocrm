@@ -1,0 +1,454 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"revi",
+				"reviews"
+			],
+			[
+				"SESSION",
+				"SESSION_COOKIE_AGE"
+			],
+			[
+				"MEDIA",
+				"MEDIA_ROOT"
+			],
+			[
+				"u",
+				"ul"
+			],
+			[
+				"Create",
+				"createview\tCreateView"
+			],
+			[
+				"Revi",
+				"ReviewForm"
+			],
+			[
+				"form",
+				"form_vaild"
+			],
+			[
+				"Rev",
+				"ReviewForm"
+			],
+			[
+				"get_",
+				"get_queryset"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"con",
+				"CACHE_MIDDLEWARE_ANONYMOUS_ONLY"
+			],
+			[
+				"sel",
+				"selected_review"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"Re",
+				"Review"
+			],
+			[
+				"ul",
+				"url\turl"
+			],
+			[
+				"re",
+				"Review"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"ex",
+				"extends\textends"
+			],
+			[
+				"ur",
+				"urlpatterns"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"her",
+				"header"
+			],
+			[
+				"justi",
+				"justify-content"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"cha",
+				"Challanges"
+			],
+			[
+				"mon",
+				"months"
+			],
+			[
+				"chal",
+				"challenge"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"redi",
+				"redirect_path"
+			],
+			[
+				"Htt",
+				"HttpResponseNotFound"
+			],
+			[
+				"mont",
+				"months"
+			],
+			[
+				"Http",
+				"HttpResponseNotFound"
+			],
+			[
+				"http",
+				"HttpResponseNotFound"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"enc",
+				"enc_file"
+			],
+			[
+				"fr",
+				"form"
+			],
+			[
+				"Lead",
+				"LeadUpdateView"
+			],
+			[
+				"lead",
+				"lead_list"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: html"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/programs/DJANGO/dcrm"
+	],
+	"file_history":
+	[
+		"/F/programs/django_udemy/feedback/profiles/urls.py",
+		"/F/programs/django_udemy/feedback/profiles/templates/profiles/create_profile.html",
+		"/F/programs/django_udemy/feedback/profiles/forms.py",
+		"/F/programs/django_udemy/feedback/review/urls.py",
+		"/F/programs/django_udemy/feedback/review/views.py",
+		"/F/programs/django_udemy/feedback/review/templates/review/single_review.html",
+		"/F/programs/django_udemy/feedback/profiles/views.py",
+		"/F/programs/django_udemy/feedback/profiles/templates/profiles/user_profiles.html",
+		"/F/programs/django_udemy/feedback/profiles/models.py",
+		"/F/programs/django_udemy/feedback/feedback/settings.py",
+		"/F/programs/django_udemy/feedback/feedback/urls.py",
+		"/F/programs/django_udemy/feedback/review/forms.py",
+		"/F/programs/django_udemy/feedback/review/models.py",
+		"/F/programs/django_udemy/feedback/review/static/reviews/styles.css",
+		"/F/programs/django_udemy/feedback/review/templates/review/thank_you.html",
+		"/F/programs/django_udemy/feedback/review/templates/review/review.html",
+		"/F/programs/django_udemy/feedback/review/templates/review/base.html",
+		"/F/programs/django_udemy/feedback/review/templates/review/review_list.html",
+		"/F/programs/django_udemy/feedback/profiles/static/profiles/styles.css",
+		"/F/programs/DSA/linked_list.py",
+		"/F/programs/django_udemy/feedback/,",
+		"/F/programs/django_udemy/book_store/book_outlet/urls.py",
+		"/F/programs/django_udemy/book_store/book_outlet/admin.py",
+		"/F/programs/django_udemy/book_store/book_store/urls.py",
+		"/F/programs/django_udemy/book_store/book_outlet/views.py",
+		"/F/programs/django_udemy/book_store/book_outlet/models.py",
+		"/F/programs/django_udemy/book_store/book_outlet/migrations/0001_initial.py",
+		"/F/programs/django_udemy/book_store/book_outlet/migrations/0002_book_author_book_is_bestselling_alter_book_rating.py",
+		"/F/programs/django_udemy/book_store/.a",
+		"/F/programs/django_udemy/book_store/book_outlet/templates/book_outlet/index.html",
+		"/F/programs/django_udemy/book_store/book_outlet/templates/book_outlet/book_detail.html",
+		"/F/programs/django_udemy/book_store/book_outlet/templates/book_outlet/sublimeproject.sublime-project",
+		"/F/programs/django_udemy/book_store/book_outlet/templates/index.html",
+		"/F/programs/django_udemy/book_store/book_outlet/templates/base.html",
+		"/F/programs/django_udemy/book_store/book_store/settings.py",
+		"/F/programs/django_udemy/book_store/book_outlet/templates/book_detail.html",
+		"/F/programs/django_udemy/my_site/my_site/settings.py",
+		"/F/programs/django_udemy/my_site/templates/base.html",
+		"/F/programs/django_udemy/my_site/blog/templates/blog/all-posts.html",
+		"/F/programs/django_udemy/my_site/blog/templates/blog/index.html",
+		"/F/programs/django_udemy/my_site/templates/404.html",
+		"/F/programs/django_udemy/my_site/blog/templates/blog/post-detail.html",
+		"/F/programs/django_udemy/my_site/blog/templates/blog/includes/post.html",
+		"/F/programs/django_udemy/my_site/blog/views.py",
+		"/F/programs/django_udemy/my_site/blog/urls.py",
+		"/F/programs/django_udemy/my_site/blog/static/blog/all-posts.css",
+		"/F/programs/django_udemy/my_site/blog/static/blog/post-detail.css",
+		"/F/programs/django_udemy/my_site/blog/static/blog/post.css",
+		"/F/programs/django_udemy/my_site/blog/static/blog/index.css",
+		"/F/programs/django_udemy/my_site/static/app.css",
+		"/F/programs/django_udemy/my_site/my_site/urls.py",
+		"/F/programs/django_udemy/monthly_challenges/challenges/urls.py",
+		"/F/programs/django_udemy/monthly_challenges/templates/base.html",
+		"/F/programs/django_udemy/monthly_challenges/static/styles.css",
+		"/F/programs/django_udemy/monthly_challenges/challenges/templates/challenges/index.html",
+		"/F/programs/django_udemy/monthly_challenges/challenges/static/challenges/challenge.css",
+		"/F/programs/django_udemy/monthly_challenges/challenges/templates/challenges/challenge.html",
+		"/F/programs/django_udemy/monthly_challenges/challenges/static/challenges/includes/header.css",
+		"/F/programs/django_udemy/monthly_challenges/challenges/static/challenges/challenges.css",
+		"/F/programs/django_udemy/monthly_challenges/monthly_challenges/settings.py",
+		"/F/programs/django_udemy/monthly_challenges/challenges/views.py",
+		"/F/programs/django_udemy/monthly_challenges/challenges/templates/challenges/includes/header.html",
+		"/F/programs/django_udemy/monthly_challenges/templates/404.html",
+		"/F/programs/django_udemy/monthly_challenges/spyedit.py",
+		"/F/programs/django_udemy/monthly_challenges/monthly_challenges/urls.py",
+		"/F/programs/spotifySpy/test.py",
+		"/F/programs/spotifySpy/spy.py",
+		"/F/programs/img_enc/test.py",
+		"/F/programs/img_enc/finalfile",
+		"/F/programs/img_enc/before.jpg",
+		"/F/programs/img_enc/generate_key.py",
+		"/F/programs/img_enc/shuffled_image.jpg",
+		"/F/programs/img_enc/transformed_image.jpg",
+		"/F/programs/pennywise/users/templates/users/login.html",
+		"/F/programs/pennywise/users/views.py",
+		"/F/programs/pennywise/users/urls.py",
+		"/F/programs/django learning/leads/models.py",
+		"/F/programs/django learning/djcrm/settings.py",
+		"/F/programs/django learning/djcrm/urls.py",
+		"/F/programs/django learning/templates/registration/signup.html",
+		"/F/programs/django learning/leads/views.py",
+		"/F/programs/django learning/leads/templates/leads/lead_list.html",
+		"/F/programs/django learning/leads/urls.py",
+		"/F/programs/django learning/templates/registration/login.html",
+		"/F/programs/django learning/templates/base.html",
+		"/F/programs/django learning/templates/registration/logout.html",
+		"/F/programs/django learning/static/main.js",
+		"/F/programs/django learning/templates/test.html",
+		"/F/programs/django learning/static/styles.css",
+		"/F/programs/django learning/leads/templates/leads/lead_delete.html",
+		"/F/programs/django learning/leads/templates/leads/lead_detail.html",
+		"/F/programs/django learning/templates/navbar.html",
+		"/F/programs/django learning/templates/landing.html",
+		"/C/Users/ramvi/Downloads/c8b48d3281310e0dcebcc590e8e4f564_Lecture1/Lecture1/lecture1.py"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"endblock",
+			"rating"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 41.6
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "subl project.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 308.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"post"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
