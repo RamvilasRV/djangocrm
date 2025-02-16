@@ -11,4 +11,4 @@ cursorObject = dataBase.cursor()
 
 cursorObject.execute("CREATE DATABASE elderco")
 
-print("Database connection setup")
+print("Database connection setup") 
